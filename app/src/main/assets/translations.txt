@@ -1,0 +1,1845 @@
+يلغي
+مخرج
+هل أنت متأكد أنك تريد الخروج؟
+نعم
+لا
+خصوصية
+انقر في أكثر من مكانين للحصول على المنطقة
+انقر في أكثر من مكانين للحصول على مسافة
+<u> سياسة الخصوصية </ u>
+هل تمانع في قضاء بعض الوقت لإعطاء تقييم؟ يساعدنا ، شكرا لدعمكم.
+SavedMapsActivity
+NewSavedPlacesActivity
+عنوان
+خرائط
+خطة رحلة
+حفظ المنطقة
+حفظ المسافة
+الأماكن المحفوظة
+تطبيقات أكثر
+معدل
+يشارك
+DemoActivity
+امسح كل النقاط الموضوعة
+الغاء التحميل
+مباشر \ n الموقع
+عنوان \ n مباشر
+احسب \ n المسافة
+حساب \ n المنطقة
+الأماكن المحفوظة
+حفظ خريطة غير
+حفظ على الخريطة
+المنطقة أو المسافة أو الموقع أو الرحلة تحفظ البيانات كصورة أو تنسيق خريطة قابل للمشاركة
+حفظ الموقع
+عنوان
+أعط عنوانا للموقع
+وصف
+أعط وصفا للموقع
+يرجى إعطاء عنوان للموقع المحفوظ
+عناوين
+خرائط
+لم يتم حفظ أي عنوان \ n ابدأ الحفظ بالنقر فوق الزر أدناه
+اضف جديد
+لم يتم حفظ خرائط \ n ابدأ الحفظ بالنقر فوق الزر أدناه
+حدد
+يمسح
+Отказ
+Изход
+Сигурни ли сте, че искате ИЗХОД?
+да
+Не
+поверителност
+Кликнете върху повече от 2 места, за да получите зона
+Кликнете върху повече от 2 места, за да получите разстояние
+<u>Правила за поверителност</u>
+Бихте ли отделили малко време, за да дадете оценка? Помага ни, благодаря за подкрепата.
+SavedMapsActivity
+NewSavedPlacesActivity
+Адрес
+Карти
+Планирайте пътуване
+Запазване на зоната
+Спестете разстояние
+Запазени места
+Още приложения
+Оценете
+Дял
+Демоактивност
+Изчистете всички поставени точки
+отмяна
+На живо\nМестоположение
+На живо\nАдрес
+Изчислете\nРазстояние
+Изчислете\nплощ
+Запазени\nместа
+Запазете\nкарта
+Запазване на картата
+Район, разстояние, местоположение или пътуване запазват данните като изображение или формат на карта за споделяне
+Запазване на местоположение
+Заглавие
+Дайте заглавие на местоположението
+Описание
+Дайте описание на местоположението
+Моля, дайте заглавие на запазеното местоположение
+Адреси
+Карти
+Няма запазен адрес\nЗапочнете да записвате, като щракнете върху бутона по-долу
+Добави нов
+Няма запазени карти\nЗапочнете да записвате, като щракнете върху бутона по-долу
+Намерете
+Изтрий
+বাতিল করুন
+প্রস্থান করুন
+আপনি প্রস্থান করতে চান?
+হ্যাঁ
+না
+গোপনীয়তা
+এলাকা পেতে 2টির বেশি জায়গায় ক্লিক করুন
+দূরত্ব পেতে 2টির বেশি জায়গায় ক্লিক করুন
+<u>গোপনীয়তা নীতি</u>
+আপনি রেটিং দিতে একটি মুহূর্ত নিতে আপত্তি করবেন? এটা আমাদের সাহায্য করে, আপনার সমর্থনের জন্য ধন্যবাদ.
+SavedMapsActivity
+NewSavedPlacesActivity
+ঠিকানা
+মানচিত্র
+একটি ট্রিপ পরিকল্পনা
+এলাকা সংরক্ষণ করুন
+দূরত্ব সংরক্ষণ করুন
+সংরক্ষিত স্থান
+আরো অ্যাপ্লিকেশান
+হার
+শেয়ার করুন
+ডেমোঅ্যাক্টিভিটি
+সমস্ত স্থাপন করা পয়েন্ট সাফ করুন
+পূর্বাবস্থা
+লাইভ\nঅবস্থান
+লাইভ\nঠিকানা
+গণনা করুন\nদূরত্ব
+গণনা করুন\nক্ষেত্রফল
+সংরক্ষিত\nস্থান
+মানচিত্রে\nসংরক্ষণ করুন
+মানচিত্রে সংরক্ষণ করুন
+এলাকা, দূরত্ব, অবস্থান বা একটি ট্রিপ একটি চিত্র বা একটি ভাগযোগ্য মানচিত্র ফর্ম্যাট হিসাবে ডেটা সংরক্ষণ করে
+একটি অবস্থান সংরক্ষণ করুন
+শিরোনাম
+অবস্থানের একটি শিরোনাম দিন
+বর্ণনা
+অবস্থানের একটি বিবরণ দিন
+অনুগ্রহ করে সংরক্ষিত অবস্থানের একটি শিরোনাম দিন
+ঠিকানা
+মানচিত্র
+কোনো ঠিকানা সংরক্ষিত নেই\nনিচের বোতামে ক্লিক করে সংরক্ষণ করা শুরু করুন
+নতুন যোগ করুন
+কোনো মানচিত্র সংরক্ষিত হয়নি\nনিচের বোতামে ক্লিক করে সংরক্ষণ করা শুরু করুন
+সনাক্ত করুন
+মুছে ফেলা
+Cancel · lar
+Sortida
+Estas segur de que vols sortir?
+Sí
+No
+Privadesa
+Feu clic a més de 2 llocs per obtenir l'àrea
+Feu clic a més de 2 llocs per obtenir Distància
+<u>Política de privadesa</u>
+Us importaria dedicar-vos un moment a valorar? Ens ajuda, gràcies pel vostre suport.
+Activitat de mapes desats
+Activitat de NewSavedPlaces
+adreça
+Mapes
+Planifica un viatge
+Desa l'àrea
+Guardar la distància
+Llocs desats
+Més aplicacions
+Taxa
+Compartir
+DemoActivity
+Esborra tots els punts col·locats
+desfer
+Live\nUbicació
+Direcció\nDirecta
+Calcula\nDistància
+Calcula\nÀrea
+\nLlocs desats
+Desa\no mapa
+Desa al mapa
+L'àrea, la distància, la ubicació o un viatge deseu les dades com a format d'imatge o de mapa compartible
+Desa una ubicació
+Títol
+Dóna un títol a la ubicació
+Descripció
+Doneu una descripció a la ubicació
+Si us plau, doneu un títol a la ubicació desada
+Adreces
+Mapes
+No s'ha desat cap adreça\nComenceu a desar fent clic al botó de sota
+Afegir nou
+No s'ha desat cap mapa\nComenceu a desar fent clic al botó següent
+Localitza
+Suprimeix
+取消
+出口
+你确定要离开？
+是的
+不
+隐私
+点击2处以上获取面积
+点击 2 个以上的地方以获得距离
+<u>隐私政策</u>
+您介意花点时间给评分吗？它对我们有帮助，感谢您的支持。
+SavedMapsActivity
+新保存的地方活动
+地址
+地图
+计划旅行
+保存区域
+节省距离
+保存的地方
+更多应用程序
+速度
+分享
+演示活动
+清除所有放置的点
+撤消
+实时\n位置
+现场\n地址
+计算\n距离
+计算\n面积
+已保存\n地点
+保存\非地图
+保存在地图上
+面积、距离、位置或行程将数据保存为图像或可共享地图格式
+保存位置
+标题
+给位置一个标题
+描述
+对位置进行描述
+请给保存的位置一个标题
+地址
+地图
+未保存地址\n单击下面的按钮开始保存
+添新
+未保存地图\n单击下面的按钮开始保存
+定位
+删除
+取消
+出口
+你確定要離開？
+是的
+不
+隱私
+點擊2處以上獲取面積
+點擊 2 個以上的地方以獲得距離
+<u>隱私政策</u>
+您介意花點時間給評分嗎？它對我們有幫助，感謝您的支持。
+SavedMapsActivity
+新保存的地方活動
+地址
+地圖
+計劃旅行
+保存區域
+節省距離
+保存的地方
+更多應用程序
+速度
+分享
+演示活動
+清除所有放置的點
+撤消
+實時\n位置
+現場\n地址
+計算\n距離
+計算\n面積
+已保存\n地點
+保存\非地圖
+保存在地圖上
+面積、距離、位置或行程將數據保存為圖像或可共享地圖格式
+保存位置
+標題
+給位置一個標題
+描述
+對位置進行描述
+請給保存的位置一個標題
+地址
+地圖
+未保存地址\n單擊下面的按鈕開始保存
+添新
+未保存地圖\n單擊下面的按鈕開始保存
+定位
+刪除
+Otkazati
+Izlaz
+Jesi li siguran da želiš izaći?
+Da
+Ne
+Privatnost
+Kliknite na više od 2 mjesta da biste dobili područje
+Kliknite na više od 2 mjesta da biste dobili udaljenost
+<u>Pravila o privatnosti</u>
+Biste li odvojili trenutak i dali ocjenu? Pomaže nam, hvala na podršci.
+SavedMapsActivity
+NewSavedPlacesActivity
+Adresa
+Karte
+Planirajte putovanje
+Spremi područje
+Uštedite udaljenost
+Spremljena mjesta
+Više aplikacija
+Stopa
+Udio
+Demoaktivnost
+Obrišite sve postavljene točke
+poništiti
+Uživo\nLokacija
+Živa\nadresa
+Izračunaj\nUdaljenost
+Izračunajte\npovršinu
+Spremljena\nmjesta
+Spremi\nkartu
+Spremi na kartu
+Područje, udaljenost, lokacija ili putovanje spremaju podatke kao sliku ili format karte koja se može dijeliti
+Spremi lokaciju
+Titula
+Dodijelite naslov lokaciji
+Opis
+Dajte opis lokaciji
+Molimo dodijelite naslov spremljenoj lokaciji
+Adrese
+Karte
+Adresa nije spremljena\nZapočnite spremanje klikom na gumb ispod
+Dodaj novi
+Nema spremljenih karata\nPočnite spremati klikom na gumb ispod
+Pronaći
+Izbrisati
+zrušení
+Výstup
+Jste si jisti, chcete UKONČIT?
+Ano
+Ne
+Soukromí
+Kliknutím na více než 2 místa získáte oblast
+Kliknutím na více než 2 místa získáte vzdálenost
+<u>Zásady ochrany osobních údajů</u>
+Nevadilo by vám věnovat chvíli hodnocení? Pomáhá nám to, děkujeme za vaši podporu.
+SavedMapsActivity
+Aktivita nových uložených míst
+Adresa
+Mapy
+Naplánujte si výlet
+Uložit oblast
+Uložit vzdálenost
+Uložená místa
+Další aplikace
+Hodnotit
+Podíl
+DemoActivity
+Vymažte všechny umístěné body
+vrátit
+Live\nPoloha
+Živá\nadresa
+Vypočítejte\nVzdálenost
+Vypočítejte\nPlochu
+Uložená\nMísta
+Uložit\ne mapu
+Uložit na mapě
+Oblast, Vzdálenost, Místo nebo Výlet ukládají data jako obrázek nebo formát mapy ke sdílení
+Uložit místo
+Titul
+Zadejte název umístění
+Popis
+Zadejte popis umístění
+Uložené místo pojmenujte
+Adresy
+Mapy
+Není uložena žádná adresa\nZačněte ukládat kliknutím na tlačítko níže
+Přidat nový
+Nejsou uloženy žádné mapy\nZačněte ukládat kliknutím na tlačítko níže
+Lokalizovat
+Vymazat
+Afbestille
+Afslut
+Er du sikker på, at du vil EXIT?
+Ja
+Ingen
+Privatliv
+Klik på mere end 2 steder for at få området
+Klik på mere end 2 steder for at få afstand
+<u>Privatlivspolitik</u>
+Vil du bruge et øjeblik på at give en vurdering? Det hjælper os, tak for din støtte.
+Saved MapsActivity
+NewSavedPlacesActivity
+Adresse
+Kort
+Planlæg en tur
+Gem område
+Gem afstand
+Gemte steder
+Flere apps
+Sats
+Del
+DemoActivity
+Ryd alle placerede punkter
+fortryd
+Live\nPlacering
+Live\nAdresse
+Beregn\nAfstand
+Beregn\nAreal
+Gemte\nSteder
+Gem\ikke kort
+Gem på kort
+Område, afstand, sted eller tur gemmer dataene som et billede eller et kortformat, der kan deles
+Gem en placering
+Titel
+Giv en titel til placeringen
+Beskrivelse
+Giv en beskrivelse til placeringen
+Giv venligst en titel til gemt placering
+Adresser
+Kort
+Ingen adresse gemt\nBegynd at gemme ved at klikke på knappen nedenfor
+Tilføj ny
+Ingen kort gemt\nBegynd at gemme ved at klikke på knappen nedenfor
+Find
+Slet
+Annuleren
+Uitgang
+Weet u zeker dat u wilt afsluiten?
+Ja
+Nee
+Privacy
+Klik op meer dan 2 plaatsen om een gebied te krijgen
+Klik op meer dan 2 plaatsen om de afstand te krijgen
+<u>Privacybeleid</u>
+Zou je even de tijd willen nemen om een beoordeling te geven? Het helpt ons, bedankt voor uw steun.
+SavedMapsActivity
+NewSavedPlacesActivity
+Adres
+Kaarten
+Een reis plannen
+Gebied opslaan
+Bewaar afstand
+Opgeslagen plaatsen
+Meer apps
+Tarief
+Deel
+DemoActiviteit
+Wis alle geplaatste punten
+ongedaan maken
+Live\nLocatie
+Live\nadres
+Bereken\nAfstand
+Bereken\nOppervlak
+Opgeslagen\nPlaatsen
+Bewaar\geen kaart
+Bewaar op de kaart
+Gebied, afstand, locatie of een reis slaat de gegevens op als een afbeelding of een deelbare kaartindeling
+Sla een locatie op
+Titel
+Geef een titel aan de locatie
+Beschrijving
+Geef een beschrijving aan de locatie
+Geef een titel aan de opgeslagen locatie
+Adressen
+Kaarten
+Geen adres opgeslagen\nStart met opslaan door op onderstaande knop te klikken
+Nieuw toevoegen
+Geen kaarten opgeslagen\nStart met opslaan door op de onderstaande knop te klikken
+bevind zich
+Verwijderen
+Cancel
+Exit
+Are you sure, You want to EXIT?
+Yes
+No
+Privacy
+Click at more than 2 places to get area
+Click at more than 2 places to get Distance
+<u>Privacy Policy</u>
+Would you mind taking a moment to give rating? It helps us, Thanks for your support.
+SavedMapsActivity
+NewSavedPlacesActivity
+Address
+Maps
+Plan a Trip
+Save Area
+Save Distance
+Saved Places
+More Apps
+Rate
+Share
+DemoActivity
+Clear all placed points
+undo
+Live\nLocation
+Live\nAddress
+Calculate\nDistance
+Calculate\nArea
+Saved\nPlaces
+Save\non Map
+Save On Map
+Area, Distance, Location or a Trip save the data as an Image or a Sharable Map format
+Save a Location
+Title
+Give a Title to the Location
+Description
+Give a Description to the Location
+Please Give a Title to Saved Location
+Addresses
+Maps
+No Address Saved\nStart saving by clicking on the button below
+Add New
+No Maps Saved\nStart saving by clicking on the button below
+Locate
+Delete
+Peruuttaa
+Poistu
+Oletko varma, että haluat poistua?
+Joo
+Ei
+Yksityisyys
+Napsauta yli 2 paikkaa saadaksesi alueen
+Napsauta yli 2 paikkaa saadaksesi etäisyyden
+<u>Tietosuojakäytäntö</u>
+Haluaisitko antaa hetken arvioidaksesi? Se auttaa meitä, kiitos tuestanne.
+SavedMapsActivity
+NewSavedPlacesActivity
+Osoite
+Kartat
+Suunnittele matka
+Tallenna alue
+Tallenna etäisyys
+Tallennetut paikat
+Lisää sovelluksia
+Rate
+Jaa
+DemoActivity
+Tyhjennä kaikki asetetut pisteet
+kumoa
+Live\nSijainti
+Live\nOsoite
+Laske\nEtäisyys
+Laske\nPinta-ala
+Tallennettu\nPaikat
+Tallenna\n kartalle
+Tallenna kartalle
+Alue, etäisyys, sijainti tai matka tallentaa tiedot kuvana tai jaettavana karttamuotona
+Tallenna sijainti
+Otsikko
+Anna sijainnille otsikko
+Kuvaus
+Anna Sijainnin kuvaus
+Anna tallennetulle sijainnille otsikko
+Osoitteet
+Kartat
+Osoitetta ei tallennettu\nAloita tallennus napsauttamalla alla olevaa painiketta
+Lisää uusi
+Ei tallennettuja karttoja\nAloita tallennus napsauttamalla alla olevaa painiketta
+Paikantaa
+Poistaa
+Annuler
+Sortie
+Êtes-vous sûr de vouloir quitter?
+Oui
+Non
+Confidentialité
+Cliquez sur plus de 2 endroits pour obtenir la zone
+Cliquez à plus de 2 endroits pour obtenir la distance
+<u>Politique de confidentialité</u>
+Cela vous dérangerait-il de prendre un moment pour donner une note ? Cela nous aide, merci pour votre soutien.
+SavedMapsActivity
+Nouvelle activité de lieux enregistrés
+Adresse
+Plans
+Planifier un voyage
+Zone de sauvegarde
+Enregistrer la distance
+Lieux enregistrés
+Plus d'applications
+Taux
+Partager
+DemoActivity
+Effacer tous les points placés
+annuler
+Emplacement\nen direct
+Adresse\nen direct
+Calculer\nla distance
+Calculer\nZone
+Lieux\nenregistrés
+Enregistrer\non la carte
+Enregistrer sur la carte
+La zone, la distance, l'emplacement ou un trajet enregistrent les données sous forme d'image ou de carte partageable
+Enregistrer un lieu
+Titre
+Donner un titre à l'emplacement
+Description
+Donner une description à l'emplacement
+Veuillez donner un titre à l'emplacement enregistré
+Adresses
+Plans
+Aucune adresse enregistrée\nCommencez à enregistrer en cliquant sur le bouton ci-dessous
+Ajouter nouveau
+Aucune carte enregistrée\nCommencez à enregistrer en cliquant sur le bouton ci-dessous
+Localiser
+Supprimer
+Stornieren
+Ausfahrt
+Sie sind sicher, dass Sie beenden wollen?
+Ja
+NEIN
+Privatsphäre
+Klicken Sie auf mehr als 2 Stellen, um den Bereich zu erhalten
+Klicken Sie auf mehr als 2 Stellen, um die Entfernung zu erhalten
+<u>Datenschutzerklärung</u>
+Würden Sie sich einen Moment Zeit nehmen, um eine Bewertung abzugeben? Es hilft uns, danke für Ihre Unterstützung.
+Gespeicherte Kartenaktivität
+NeueGespeicherteOrteAktivität
+Adresse
+Karten
+Einen Ausflug planen
+Bereich speichern
+Abstand speichern
+Gespeicherte Orte
+Mehr Apps
+Rate
+Aktie
+DemoAktivität
+Löschen Sie alle platzierten Punkte
+rückgängig machen
+Live\nStandort
+Live\nAdresse
+Berechnen\nEntfernung
+Berechne\nFläche
+Gespeicherte\nOrte
+Speichern\nicht Karte
+Auf Karte speichern
+Bereich, Entfernung, Standort oder eine Reise speichern die Daten als Bild oder im Format einer gemeinsam nutzbaren Karte
+Speichern Sie einen Standort
+Titel
+Geben Sie dem Standort einen Titel
+Beschreibung
+Geben Sie dem Standort eine Beschreibung
+Bitte geben Sie dem gespeicherten Ort einen Titel
+Adressen
+Karten
+Keine Adresse gespeichert\nBeginnen Sie mit dem Speichern, indem Sie auf die Schaltfläche unten klicken
+Neue hinzufügen
+Keine Karten gespeichert\nBeginnen Sie mit dem Speichern, indem Sie auf die Schaltfläche unten klicken
+Lokalisieren
+Löschen
+Ματαίωση
+Εξοδος
+Είσαι σίγουρος ότι θέλεις να φύγεις?
+Ναί
+Οχι
+Μυστικότητα
+Κάντε κλικ σε περισσότερα από 2 μέρη για να αποκτήσετε περιοχή
+Κάντε κλικ σε περισσότερα από 2 μέρη για να λάβετε Απόσταση
+<u>Πολιτική απορρήτου</u>
+Θα θέλατε να αφιερώσετε λίγο χρόνο για να βαθμολογήσετε; Μας βοηθά, Ευχαριστούμε για την υποστήριξή σας.
+SavedMapsActivity
+NewSavedPlacesActivity
+Διεύθυνση
+Χάρτες
+Σχεδιάστε ένα ταξίδι
+Αποθήκευση περιοχής
+Αποθήκευση απόστασης
+Αποθηκευμένα μέρη
+Περισσότερες εφαρμογές
+Τιμή
+Μερίδιο
+DemoActivity
+Καθαρίστε όλα τα τοποθετημένα σημεία
+ξεκάνω
+Ζωντανά\nΤοποθεσία
+Ζωντανά\nΔιεύθυνση
+Υπολογίστε\nΑπόσταση
+Υπολογισμός\nΕμβαδόν
+Αποθηκευμένα\nΜέρη
+Αποθήκευση\nστο χάρτη
+Αποθήκευση στο χάρτη
+Περιοχή, Απόσταση, Τοποθεσία ή Ταξίδι αποθηκεύουν τα δεδομένα ως εικόνα ή μορφή χάρτη με δυνατότητα κοινής χρήσης
+Αποθήκευση τοποθεσίας
+Τίτλος
+Δώστε έναν τίτλο στην τοποθεσία
+Περιγραφή
+Δώστε μια περιγραφή στην τοποθεσία
+Παρακαλούμε δώστε έναν τίτλο στην αποθηκευμένη τοποθεσία
+Διευθύνσεις
+Χάρτες
+Δεν έχει αποθηκευτεί διεύθυνση\nΞεκινήστε την αποθήκευση κάνοντας κλικ στο παρακάτω κουμπί
+Προσθεσε νεο
+Δεν έχουν αποθηκευτεί χάρτες\nΞεκινήστε την αποθήκευση κάνοντας κλικ στο παρακάτω κουμπί
+Εγκατάσταση
+Διαγράφω
+לְבַטֵל
+יְצִיאָה
+אתה בטוח שאתה רוצה לצאת?
+כן
+לא
+פְּרָטִיוּת
+לחץ על יותר מ-2 מקומות כדי לקבל אזור
+לחץ על יותר מ-2 מקומות כדי לקבל מרחק
+<u>מדיניות פרטיות</u>
+אכפת לך להקדיש רגע לתת דירוג? זה עוזר לנו, תודה על התמיכה שלך.
+SavedMapsActivity
+NewSavedPlacesActivity
+כתובת
+מפות
+לתכנן טיול
+שמור אזור
+שמור מרחק
+מקומות שמורים
+עוד אפליקציות
+ציון
+לַחֲלוֹק
+DemoActivity
+נקה את כל הנקודות הממוקמות
+לבטל
+חי\nמיקום
+חי\nכתובת
+חשב\nמרחק
+חשב\nשטח
+שמורים\nמקומות
+שמור\לא מפה
+שמור במפה
+אזור, מרחק, מיקום או טיול שמור את הנתונים כתמונה או בפורמט מפה ניתנת לשיתוף
+שמור מיקום
+כותרת
+תן כותרת למיקום
+תיאור
+תן תיאור למיקום
+אנא תן כותרת למיקום השמור
+כתובות
+מפות
+לא נשמרה כתובת\nהתחל לשמור על ידי לחיצה על הכפתור למטה
+הוסף חדש
+לא נשמרו מפות\nהתחל לשמור על ידי לחיצה על הכפתור למטה
+לְאַתֵר
+לִמְחוֹק
+रद्द करना
+बाहर निकलना
+क्या आप निश्चित हैं आपकी बाहर निकलने की इच्छा है?
+हाँ
+नहीं
+गोपनीयता
+क्षेत्र प्राप्त करने के लिए 2 से अधिक स्थानों पर क्लिक करें
+दूरी प्राप्त करने के लिए 2 से अधिक स्थानों पर क्लिक करें
+<यू>गोपनीयता नीति</यू>
+क्या आप रेटिंग देने के लिए कुछ समय देना चाहेंगे? यह हमारी मदद करता है, आपके समर्थन के लिए धन्यवाद।
+सेव्डमैप्सएक्टिविटी
+NewSavedPlacesActivity
+पता
+एमएपीएस
+एक यात्रा की योजना बनाओ
+क्षेत्र बचाओ
+दूरी बचाओ
+सहेजे गए स्थान
+और ऐप
+दर
+शेयर करना
+डेमोएक्टिविटी
+सभी रखे गए बिंदुओं को साफ़ करें
+पूर्ववत
+लाइव\nस्थान
+लाइव\nपता
+दूरी की गणना करें
+क्षेत्र की गणना करें
+सहेजे गए\nस्थान
+सहेजें\गैर मानचित्र
+मानचित्र पर सहेजें
+क्षेत्र, दूरी, स्थान या यात्रा डेटा को छवि या साझा करने योग्य मानचित्र प्रारूप के रूप में सहेजें
+एक स्थान सहेजें
+शीर्षक
+स्थान को एक शीर्षक दें
+विवरण
+स्थान का विवरण दें
+कृपया सहेजे गए स्थान को एक शीर्षक दें
+पतों
+एमएपीएस
+कोई पता सहेजा नहीं गया\nनीचे दिए गए बटन पर क्लिक करके सहेजना प्रारंभ करें
+नया जोड़ो
+कोई मानचित्र सहेजा नहीं गया\nनीचे दिए गए बटन पर क्लिक करके सहेजना प्रारंभ करें
+का पता लगाने
+मिटाना
+Megszünteti
+Kijárat
+Biztos ki akarsz lépni?
+Igen
+Nem
+Magánélet
+Kattintson több mint 2 helyre a terület megtekintéséhez
+Kattintson több mint 2 helyre a Távolság megtekintéséhez
+<u>Adatvédelmi irányelvek</u>
+Szánna egy percet az értékelésre? Segít nekünk, köszönjük a támogatást.
+SavedMapsActivity
+NewSavedPlacesActivity
+Cím
+Térképek
+Tervezzen egy utazást
+Terület mentése
+Mentse el a távolságot
+Mentett helyek
+További alkalmazások
+Mérték
+Ossza meg
+DemoActivity
+Törölje az összes elhelyezett pontot
+visszavonni
+Élő\nHelyszín
+Élő\nCím
+Számolja ki\nTávolságot
+Számolja ki\nTerület
+Mentett\nHelyek
+Mentés\non Térképen
+Mentés a térképen
+Terület, távolság, hely vagy utazás menti az adatokat kép vagy megosztható térkép formátumban
+Hely mentése
+Cím
+Adjon címet a helynek
+Leírás
+Adja meg a helyszín leírását
+Kérjük, adjon címet a mentett helynek
+Címek
+Térképek
+Nincs mentve cím\nA mentést az alábbi gombra kattintva kezdheti meg
+Új hozzáadása
+Nincs mentett térkép\nKezdje el a mentést az alábbi gombra kattintva
+Keresse meg
+Töröl
+Membatalkan
+KELUAR
+Apakah Anda yakin, Anda ingin KELUAR?
+Ya
+TIDAK
+Pribadi
+Klik di lebih dari 2 tempat untuk mendapatkan area
+Klik di lebih dari 2 tempat untuk mendapatkan Jarak
+<u>Kebijakan Privasi</u>
+Maukah Anda meluangkan waktu sejenak untuk memberi peringkat? Ini membantu kami, Terima kasih atas dukungan Anda.
+SavedMapsActivity
+Aktivitas Tempat Tersimpan Baru
+Alamat
+Peta
+Merencanakan sebuah perjalanan
+Simpan Daerah
+Hemat Jarak
+Tempat Tersimpan
+Aplikasi tambahan lainnya
+Kecepatan
+Membagikan
+Aktivitas Demo
+Hapus semua poin yang ditempatkan
+membuka
+Langsung\nLokasi
+Alamat\nLangsung
+Hitung\nJarak
+Hitung\nLuas
+Tersimpan\nTempat
+Simpan\non Peta
+Simpan Di Peta
+Area, Jarak, Lokasi, atau Perjalanan menyimpan data sebagai format Gambar atau Peta yang Dapat Dibagikan
+Simpan Lokasi
+Judul
+Berikan Judul ke Lokasi
+Keterangan
+Berikan Deskripsi ke Lokasi
+Harap Beri Judul ke Lokasi Tersimpan
+Alamat
+Peta
+Tidak Ada Alamat Tersimpan\nMulai simpan dengan mengeklik tombol di bawah
+Tambah baru
+Tidak Ada Peta yang Tersimpan\nMulailah menyimpan dengan mengeklik tombol di bawah
+Menemukan
+Menghapus
+Annulla
+Uscita
+Sei sicuro di voler uscire?
+SÌ
+NO
+Riservatezza
+Fare clic in più di 2 punti per ottenere l'area
+Fare clic in più di 2 punti per ottenere la distanza
+<u>Informativa sulla privacy</u>
+Ti dispiacerebbe prenderti un momento per dare una valutazione? Ci aiuta, grazie per il vostro sostegno.
+Attività mappe salvate
+NewSavedPlacesActivity
+Indirizzo
+Mappe
+Pianifica un viaggio
+Salva Zona
+Salva distanza
+Luoghi salvati
+Più applicazioni
+Valutare
+Condividere
+DemoAttività
+Cancella tutti i punti piazzati
+disfare
+Dal vivo\nPosizione
+Dal vivo\nIndirizzo
+Calcola\nDistanza
+Calcola\nArea
+Luoghi\nsalvati
+Salva\non Mappa
+Salva sulla mappa
+Area, Distanza, Posizione o Viaggio salvano i dati come immagine o formato mappa condivisibile
+Salva una posizione
+Titolo
+Assegna un titolo alla posizione
+Descrizione
+Dai una descrizione alla posizione
+Si prega di dare un titolo alla posizione salvata
+Indirizzi
+Mappe
+Nessun indirizzo salvato\nInizia a salvare facendo clic sul pulsante in basso
+Aggiungere nuova
+Nessuna mappa salvata\nInizia a salvare facendo clic sul pulsante in basso
+Individuare
+Eliminare
+キャンセル
+出口
+本当に終了してもよろしいですか？
+はい
+いいえ
+プライバシー
+面積を取得するには、2 か所以上をクリックしてください
+距離を取得するには、2 か所以上をクリックします
+<u>プライバシー ポリシー</u>
+少し時間を割いて評価していただけませんか？ご支援いただきありがとうございます。
+保存済みマップ アクティビティ
+NewSavedPlacesActivity
+住所
+マップ
+旅行を計画する
+セーブエリア
+距離を保存
+保存済みの場所
+より多くのアプリケーション
+レート
+共有
+デモ活動
+配置したすべてのポイントをクリア
+元に戻す
+ライブ\n場所
+ライブ\n住所
+距離を\n計算
+計算\n面積
+保存\n場所
+マップを\n保存
+地図上に保存
+エリア、距離、場所、またはトリップは、データを画像または共有可能なマップ形式で保存します
+場所を保存する
+タイトル
+場所にタイトルを付ける
+説明
+場所に説明を与える
+保存した場所にタイトルを付けてください
+住所
+マップ
+アドレスが保存されていません\n下のボタンをクリックして保存を開始してください
+新しく追加する
+マップが保存されていません\n下のボタンをクリックして保存を開始してください
+見つける
+消去
+취소
+출구
+종료하시겠습니까?
+예
+아니요
+은둔
+2곳 이상을 클릭하면 면적을 얻을 수 있습니다.
+2곳 이상을 클릭하면 거리를 알 수 있습니다.
+<u>개인정보 보호정책</u>
+잠시 시간을 내어 평가해 주시겠습니까? 도움이 됩니다. 지원해 주셔서 감사합니다.
+저장된 지도 활동
+NewSavedPlaces활동
+주소
+지도
+여행 계획하기
+저장 영역
+거리 저장
+저장된 장소
+더 많은 애플 리케이션
+비율
+공유하다
+DemoActivity
+배치된 모든 포인트 지우기
+실행 취소
+라이브\n위치
+라이브\n주소
+계산\n거리
+계산\n면적
+저장된\n장소
+저장\n지도
+지도에 저장
+지역, 거리, 위치 또는 여행은 데이터를 이미지 또는 공유 가능한 지도 형식으로 저장합니다.
+위치 저장
+제목
+위치에 제목 부여
+설명
+위치에 대한 설명 제공
+저장된 위치에 제목을 지정하십시오
+구애
+지도
+저장된 주소가 없습니다.\n아래 버튼을 클릭하여 저장을 시작하세요.
+새로운 걸 더하다
+저장된 지도가 없습니다.\n아래 버튼을 클릭하여 저장을 시작하세요.
+위치하고 있다
+삭제
+Atcelt
+Izeja
+Vai esat pārliecināts, vai vēlaties IZIET?
+Jā
+Nē
+Privātums
+Noklikšķiniet uz vairāk nekā 2 vietām, lai iegūtu apgabalu
+Noklikšķiniet uz vairāk nekā 2 vietām, lai iegūtu attālumu
+<u>Konfidencialitātes politika</u>
+Vai jūs vēlētos veltīt kādu brīdi, lai sniegtu vērtējumu? Tas mums palīdz. Paldies par atbalstu.
+SavedMapsActivity
+NewSavedPlacesActivity
+Adrese
+Kartes
+Plānojiet ceļojumu
+Saglabāt apgabalu
+Saglabājiet attālumu
+Saglabātās vietas
+Vairāk lietotņu
+Likme
+Dalīties
+DemoActivity
+Notīriet visus novietotos punktus
+atsaukt
+Tiešraide\nAtrašanās vieta
+Tiešraide\nAdrese
+Aprēķināt\nAttālumu
+Aprēķināt\nPlatību
+Saglabātas\nVietas
+Saglabāt\nkartē
+Saglabāt kartē
+Apgabals, attālums, atrašanās vieta vai ceļojums saglabā datus attēla vai koplietojamās kartes formātā
+Saglabājiet atrašanās vietu
+Nosaukums
+Piešķiriet vietai nosaukumu
+Apraksts
+Sniedziet atrašanās vietas aprakstu
+Lūdzu, piešķiriet saglabātajai vietai nosaukumu
+Adreses
+Kartes
+Adrese nav saglabāta\nSāciet saglabāt, noklikšķinot uz tālāk esošās pogas
+Pievieno jaunu
+Nav saglabāta neviena karte\nSāciet saglabāt, noklikšķinot uz tālāk esošās pogas
+Atrodiet
+Dzēst
+Atšaukti
+Išeiti
+Ar jūs tikras, kad norite išeiti?
+Taip
+Nr
+Privatumas
+Spustelėkite daugiau nei 2 vietas, kad gautumėte sritį
+Spustelėkite daugiau nei 2 vietas, kad gautumėte atstumą
+<u>Privatumo politika</u>
+Ar galėtumėte skirti šiek tiek laiko įvertinti? Tai mums padeda, ačiū už palaikymą.
+Išsaugota žemėlapių veikla
+NewSavedPlacesActivity
+Adresas
+Žemėlapiai
+Suplanuokite kelionę
+Išsaugoti plotą
+Išsaugoti atstumą
+Išsaugotos vietos
+Daugiau programėlių
+Įvertink
+Dalintis
+DemoActivity
+Išvalykite visus išdėstytus taškus
+anuliuoti
+Tiesioginė\nVieta
+Tiesioginis\nAdresas
+Apskaičiuokite\nAtstumą
+Apskaičiuoti\nPlotą
+Išsaugota\nVietos
+Išsaugoti\nžemėlapyje
+Išsaugoti žemėlapyje
+Plotas, atstumas, vieta arba kelionė išsaugo duomenis kaip vaizdo arba bendrinamo žemėlapio formatą
+Išsaugoti vietą
+Pavadinimas
+Suteikite vietos pavadinimą
+apibūdinimas
+Pateikite vietos aprašymą
+Suteikite išsaugotos vietos pavadinimą
+Adresai
+Žemėlapiai
+Adresas neišsaugotas\nPradėkite išsaugoti spustelėdami toliau esantį mygtuką
+Pridėti naują
+Nėra išsaugotų žemėlapių\nPradėkite išsaugoti spustelėdami toliau esantį mygtuką
+Raskite
+Ištrinti
+Avbryt
+Exit
+Er du sikker på at du vil avslutte?
+Ja
+Nei
+Personvern
+Klikk på mer enn 2 steder for å få område
+Klikk på mer enn 2 steder for å få avstand
+<u>Personvernregler</u>
+Kunne du tenke deg å bruke et øyeblikk på å gi vurdering? Det hjelper oss, takk for støtten.
+SavedMapsActivity
+NyLagrede StederAktivitet
+Adresse
+Kart
+Planlegg en tur
+Lagre område
+Lagre avstand
+Lagrede steder
+Flere apper
+Vurdere
+Dele
+DemoActivity
+Fjern alle plasserte punkter
+angre
+Live\nPlassering
+Live\nAdresse
+Beregn\nAvstand
+Beregn\nAreal
+Lagrede\nSteder
+Lagre\ikke kart
+Lagre på kartet
+Område, avstand, plassering eller tur lagrer dataene som et bilde eller et kartformat som kan deles
+Lagre en plassering
+Tittel
+Gi en tittel til plasseringen
+Beskrivelse
+Gi en beskrivelse til stedet
+Vennligst gi en tittel til lagret sted
+Adresser
+Kart
+Ingen adresse lagret\nBegynn å lagre ved å klikke på knappen nedenfor
+Legg til ny
+Ingen kart lagret\nBegynn å lagre ved å klikke på knappen nedenfor
+Lokaliser
+Slett
+Anulować
+Wyjście
+Czy jesteś pewny że chcesz wyjść?
+Tak
+NIE
+Prywatność
+Kliknij więcej niż 2 miejsca, aby uzyskać obszar
+Kliknij więcej niż 2 miejsca, aby uzyskać odległość
+<u>Polityka prywatności</u>
+Czy mógłbyś poświęcić chwilę na wystawienie oceny? To nam pomaga, dziękujemy za wsparcie.
+Aktywność zapisanych map
+Aktywność nowych zapisanych miejsc
+Adres
+Mapy
+Zaplanuj podróż
+Zapisz obszar
+Zapisz odległość
+Zapisane miejsca
+Więcej aplikacji
+Wskaźnik
+Udział
+Aktywność demonstracyjna
+Usuń wszystkie umieszczone punkty
+Cofnij
+Na żywo\nLokalizacja
+Aktywny\nAdres
+Oblicz\nOdległość
+Oblicz\nObszar
+Zapisano\nMiejsca
+Zapisz\nie mapę
+Zapisz na mapie
+Obszar, Odległość, Lokalizacja lub Podróż zapisują dane w formacie obrazu lub mapy do udostępniania
+Zapisz lokalizację
+Tytuł
+Podaj tytuł lokalizacji
+Opis
+Podaj opis lokalizacji
+Podaj tytuł zapisanej lokalizacji
+Adresy
+Mapy
+Nie zapisano żadnego adresu\nRozpocznij zapisywanie, klikając przycisk poniżej
+Dodaj nowe
+Nie zapisano żadnych map\nRozpocznij zapisywanie, klikając przycisk poniżej
+Znajdź
+Usuwać
+Cancelar
+Saída
+Você tem certeza que quer sair?
+Sim
+Não
+Privacidade
+Clique em mais de 2 lugares para obter a área
+Clique em mais de 2 lugares para obter Distância
+<u>Política de Privacidade</u>
+Você se importaria de reservar um momento para avaliar? Isso nos ajuda, obrigado pelo seu apoio.
+SavedMapsActivity
+NewSavedPlacesActivity
+Endereço
+Mapas
+Planejar uma viagem
+Salvar área
+salvar distância
+Lugares salvos
+Mais aplicativos
+Avaliar
+Compartilhar
+DemoActivity
+Limpar todos os pontos colocados
+desfazer
+Ao vivo\nLocalização
+Endereço\nReal
+Calcular\nDistância
+Calcular\nÁrea
+Lugares\nSalvos
+Salvar\no Mapa
+Salvar no mapa
+Área, distância, localização ou uma viagem salvam os dados como uma imagem ou um formato de mapa compartilhável
+Salvar um local
+Título
+Dê um título ao local
+Descrição
+Dê uma descrição para o local
+Dê um título para o local salvo
+Endereços
+Mapas
+Nenhum endereço salvo\nComece a salvar clicando no botão abaixo
+Adicionar novo
+Nenhum mapa salvo\nComece a salvar clicando no botão abaixo
+Localizar
+Excluir
+Anulare
+Ieșire
+Ești sigur, vrei să IEȘI?
+da
+Nu
+Confidențialitate
+Faceți clic în mai mult de 2 locuri pentru a obține zona
+Faceți clic în mai mult de 2 locuri pentru a obține Distanța
+<u>Politica de confidențialitate</u>
+V-ar deranja să acordați un moment pentru a acorda rating? Ne ajută, vă mulțumim pentru sprijin.
+SavedMapsActivity
+Activitate NewSavedPlaces
+Abordare
+Hărți
+Planificați o călătorie
+Salvare zonă
+Salvați distanța
+Locuri salvate
+Mai multe aplicatii
+Rată
+Acțiune
+DemoActivity
+Ștergeți toate punctele plasate
+Anula
+Live\nLocație
+Live\nAdresă
+Calculați\nDistanța
+Calculați\nZona
+Salvate\nLocuri
+Salvați\non Hartă
+Salvați pe hartă
+Zona, Distanța, Locația sau o călătorie salvează datele în format Imagine sau Hartă partajabilă
+Salvați o locație
+Titlu
+Dați un titlu locației
+Descriere
+Dați o descriere locației
+Vă rugăm să dați un titlu locației salvate
+Adrese
+Hărți
+Nicio adresă salvată\nÎncepeți salvarea făcând clic pe butonul de mai jos
+Adăuga nou
+Nicio hărți salvate\nÎncepeți salvarea făcând clic pe butonul de mai jos
+Localiza
+Șterge
+Отмена
+Выход
+Вы уверены, что хотите выйти?
+Да
+Нет
+Конфиденциальность
+Нажмите более чем в 2 местах, чтобы получить площадь
+Нажмите более чем в 2 местах, чтобы получить расстояние
+<u>Политика конфиденциальности</u>
+Не могли бы вы уделить минутку, чтобы дать оценку? Это помогает нам, спасибо за вашу поддержку.
+SavedMapsActivity
+NewSavedPlacesActivity
+Адрес
+Карты
+Спланировать поездку
+Сохранить область
+Сохранить расстояние
+Сохраненные места
+Больше приложений
+Ставка
+Делиться
+Демоактивность
+Очистить все расставленные точки
+отменить
+Прямой эфир\nМестоположение
+Живой\nАдрес
+Рассчитать\nРасстояние
+Вычислить\nПлощадь
+Сохранено\nМеста
+Сохранить\но Карта
+Сохранить на карте
+Площадь, расстояние, местоположение или поездка сохраняют данные в формате изображения или общей карты.
+Сохранить местоположение
+Заголовок
+Дайте название локации
+Описание
+Дайте описание локации
+Пожалуйста, дайте название сохраненному местоположению
+Адреса
+Карты
+Адрес не сохранен\nНачните сохранение, нажав кнопку ниже
+Добавить новое
+Карты не сохранены\nНачните сохранение, нажав кнопку ниже
+Найдите
+Удалить
+Поништити, отказати
+Изађи
+Јеси сигуран да желиш да изађеш?
+да
+Не
+Приватност
+Кликните на више од 2 места да бисте добили област
+Кликните на више од 2 места да бисте добили удаљеност
+<у>Политика приватности</у>
+Да ли бисте одвојили тренутак да дате оцену? Помаже нам, хвала на подршци.
+СаведМапсАцтивити
+НевСаведПлацесАцтивити
+Адреса
+Мапс
+Планирајте путовање
+Сачувај област
+Саве Дистанце
+Сачувана места
+Више апликација
+Рате
+Објави
+ДемоАцтивити
+Обришите све постављене тачке
+поништити
+Уживо\нЛокација
+Жива\нАдреса
+Израчунај\нУдаљеност
+Израчунај\нПовршину
+Сачувана\нМеста
+Сачувај\не мапу
+Сачувај на мапи
+Подручје, удаљеност, локација или путовање чувају податке у формату слике или карте за дељење
+Сачувај локацију
+Наслов
+Дајте назив локацији
+Опис
+Дајте опис локацији
+Молимо да дате наслов сачуваној локацији
+Аддрессес
+Мапс
+Адреса није сачувана\нЗапочните чување кликом на дугме испод
+Додај нови
+Нема сачуваних мапа\нЗапочните чување кликом на дугме испод
+Лоцате
+Избриши
+Zrušiť
+VÝCHOD
+Si si isty ze chces odist?
+Áno
+Nie
+Ochrana osobných údajov
+Kliknutím na viac ako 2 miesta získate oblasť
+Kliknite na viac ako 2 miesta a získajte vzdialenosť
+<u>Zásady ochrany osobných údajov</u>
+Mohli by ste si nájsť chvíľku na hodnotenie? Pomáha nám to, ďakujeme za podporu.
+SavedMapsActivity
+NewSavedPlacesActivity
+Adresa
+Mapy
+Naplánujte si výlet
+Uložiť oblasť
+Uložiť vzdialenosť
+Uložené miesta
+Ďalšie aplikácie
+ohodnotiť
+zdieľam
+DemoActivity
+Vymažte všetky umiestnené body
+Vrátenie späť
+Naživo\nPoloha
+Živá\nadresa
+Vypočítajte\nVzdialenosť
+Vypočítajte\nPlochu
+Uložené\nMiesta
+Uložiť\non mapu
+Uložiť na mape
+Oblasť, Vzdialenosť, Miesto alebo Cesta ukladajú údaje ako obrázok alebo formát mapy, ktorú možno zdieľať
+Uložiť polohu
+Názov
+Zadajte názov miesta
+Popis
+Zadajte popis k umiestneniu
+Zadajte názov uloženého miesta
+Adresy
+Mapy
+Nie je uložená žiadna adresa\nZačnite ukladať kliknutím na tlačidlo nižšie
+Pridať nové
+Nie sú uložené žiadne mapy\nZačnite ukladať kliknutím na tlačidlo nižšie
+Nájdite
+Odstrániť
+Prekliči
+Izhod
+Ali si prepričan da želiš oditi?
+ja
+št
+Zasebnost
+Kliknite na več kot 2 mestih, da dobite območje
+Kliknite na več kot 2 mestih, da dobite razdaljo
+<u>Politika zasebnosti</u>
+Bi si vzeli trenutek in podali oceno? Pomaga nam, hvala za vašo podporo.
+SavedMapsActivity
+NewSavedPlacesActivity
+Naslov
+Zemljevidi
+Načrtujte potovanje
+Shrani območje
+Prihranite razdaljo
+Shranjena mesta
+Več aplikacij
+Oceniti
+Deliti
+DemoActivity
+Počisti vse postavljene točke
+razveljaviti
+V živo\nLokacija
+Živi\nnaslov
+Izračunaj\nrazdaljo
+Izračunajte\npovršino
+Shranjena\nmesta
+Shrani\nzemljevid
+Shrani na zemljevid
+Območje, razdalja, lokacija ali potovanje shranijo podatke v obliki slike ali zemljevida, ki ga je mogoče deliti
+Shrani lokacijo
+Naslov
+Dodajte naslov lokaciji
+Opis
+Podajte opis lokacije
+Prosimo, dajte naslov shranjeni lokaciji
+Naslovi
+Zemljevidi
+Noben naslov ni shranjen\nZačnite shranjevati s klikom na spodnji gumb
+Dodaj novo
+Ni shranjenih zemljevidov\nZačnite shranjevati s klikom na spodnji gumb
+Poišči
+Izbriši
+Cancelar
+Salida
+¿Seguro que quieres salir?
+Sí
+No
+Privacidad
+Haga clic en más de 2 lugares para obtener el área
+Haga clic en más de 2 lugares para obtener Distancia
+<u>Política de privacidad</u>
+¿Te importaría tomarte un momento para calificar? Nos ayuda, gracias por su apoyo.
+Actividad de mapas guardados
+Nuevos lugares guardadosActividad
+DIRECCIÓN
+mapas
+Planea un viaje
+Guardar área
+Guardar distancia
+Lugares guardados
+Más aplicaciones
+Tasa
+Compartir
+Actividad de demostración
+Borrar todos los puntos colocados
+deshacer
+Live\nUbicación
+Live\nDirección
+Calcular\nDistancia
+Calcular\nÁrea
+Lugares\nguardados
+Guardar\n mapa
+Guardar en el mapa
+El área, la distancia, la ubicación o un viaje guardan los datos como una imagen o un formato de mapa para compartir
+Guardar una ubicación
+Título
+Dar un título a la ubicación
+Descripción
+Dar una descripción a la ubicación
+Dé un título a la ubicación guardada
+direcciones
+mapas
+No se guardó la dirección\nComience a guardar haciendo clic en el botón de abajo
+Agregar nuevo
+No hay mapas guardados\nEmpiece a guardar haciendo clic en el botón de abajo
+Localizar
+Borrar
+Annullera
+Utgång
+Är du säker på att du vill avsluta?
+Ja
+Nej
+Integritet
+Klicka på mer än 2 platser för att få område
+Klicka på mer än 2 platser för att få Distance
+<u>Sekretesspolicy</u>
+Skulle du vilja ta en stund att ge betyg? Det hjälper oss, tack för ditt stöd.
+SavedMapsActivity
+NewSavePlacesActivity
+Adress
+Kartor
+Planera en resa
+Spara område
+Spara avstånd
+Sparade platser
+Fler appar
+Betygsätta
+Dela med sig
+DemoActivity
+Rensa alla placerade punkter
+ångra
+Live\nPlats
+Live\nAdress
+Beräkna\nAvstånd
+Beräkna\nArea
+Sparade\nPlatser
+Spara\non Karta
+Spara på kartan
+Område, avstånd, plats eller en resa sparar data som en bild eller ett delbart kartformat
+Spara en plats
+Titel
+Ge en titel till platsen
+Beskrivning
+Ge en beskrivning till platsen
+Vänligen ge en titel till sparad plats
+Adresser
+Kartor
+Ingen adress sparad\nBörja spara genom att klicka på knappen nedan
+Lägg till ny
+Inga kartor sparade\nBörja spara genom att klicka på knappen nedan
+Lokalisera
+Radera
+ரத்து செய்
+வெளியேறு
+நிச்சயமாக நீங்கள் வெளியேற வேண்டுமா?
+ஆம்
+இல்லை
+தனியுரிமை
+பகுதியைப் பெற 2 க்கும் மேற்பட்ட இடங்களில் கிளிக் செய்யவும்
+தூரத்தைப் பெற 2க்கும் மேற்பட்ட இடங்களில் கிளிக் செய்யவும்
+<u>தனியுரிமைக் கொள்கை</u>
+மதிப்பீட்டை வழங்க சிறிது நேரம் ஒதுக்க விரும்புகிறீர்களா? இது எங்களுக்கு உதவுகிறது, உங்கள் ஆதரவுக்கு நன்றி.
+SavedMapsActivity
+புதிய சேமித்த இடங்கள் செயல்பாடு
+முகவரி
+வரைபடங்கள்
+ஒரு பயணத்தைத் திட்டமிடுங்கள்
+பகுதியை சேமிக்கவும்
+தூரத்தை சேமிக்கவும்
+சேமிக்கப்பட்ட இடங்கள்
+மேலும் பயன்பாடுகள்
+மதிப்பிடவும்
+பகிர்
+டெமோஆக்டிவிட்டி
+வைக்கப்பட்டுள்ள அனைத்து புள்ளிகளையும் அழிக்கவும்
+செயல்தவிர்
+நேரலை\nஇடம்
+நேரலை\nமுகவரி
+கணக்கிடு\nதூரம்
+கணக்கிடு\nபகுதி
+சேமிக்கப்பட்ட\nஇடங்கள்
+வரைபடத்தில்\nசேமி
+வரைபடத்தில் சேமிக்கவும்
+பகுதி, தூரம், இருப்பிடம் அல்லது பயணம் ஆகியவை தரவை ஒரு படமாக அல்லது பகிரக்கூடிய வரைபட வடிவமாக சேமிக்கவும்
+ஒரு இடத்தை சேமிக்கவும்
+தலைப்பு
+இருப்பிடத்திற்கு ஒரு தலைப்பைக் கொடுங்கள்
+விளக்கம்
+இருப்பிடத்திற்கு ஒரு விளக்கத்தைக் கொடுங்கள்
+சேமித்த இடத்திற்குத் தலைப்பைக் கொடுங்கள்
+முகவரிகள்
+வரைபடங்கள்
+முகவரி எதுவும் சேமிக்கப்படவில்லை\nகீழே உள்ள பொத்தானைக் கிளிக் செய்வதன் மூலம் சேமிக்கத் தொடங்குங்கள்
+புதிதாக சேர்க்கவும்
+வரைபடங்கள் எதுவும் சேமிக்கப்படவில்லை\nகீழே உள்ள பொத்தானைக் கிளிக் செய்வதன் மூலம் சேமிக்கத் தொடங்குங்கள்
+கண்டறிக
+அழி
+రద్దు చేయండి
+బయటకి దారి
+మీరు ఖచ్చితంగా నిష్క్రమించాలనుకుంటున్నారా?
+అవును
+నం
+గోప్యత
+ప్రాంతాన్ని పొందడానికి 2 కంటే ఎక్కువ స్థలాలపై క్లిక్ చేయండి
+దూరాన్ని పొందడానికి 2 కంటే ఎక్కువ స్థలాలపై క్లిక్ చేయండి
+<u>గోప్యతా విధానం</u>
+రేటింగ్ ఇవ్వడానికి మీరు కొంత సమయం తీసుకుంటారా? ఇది మాకు సహాయపడుతుంది, మీ మద్దతుకు ధన్యవాదాలు.
+సేవ్ చేసిన మ్యాప్స్ యాక్టివిటీ
+న్యూసేవ్డ్ ప్లేసెస్ యాక్టివిటీ
+చిరునామా
+మ్యాప్స్
+ట్రిప్ ప్లాన్ చేయండి
+ప్రాంతాన్ని సేవ్ చేయండి
+దూరాన్ని ఆదా చేయండి
+సేవ్ చేసిన స్థలాలు
+మరిన్ని యాప్‌లు
+రేట్ చేయండి
+షేర్ చేయండి
+డెమో యాక్టివిటీ
+ఉంచిన అన్ని పాయింట్లను క్లియర్ చేయండి
+అన్డు
+ప్రత్యక్ష\nస్థానం
+ప్రత్యక్ష\nచిరునామా
+దూరాన్ని\n లెక్కించండి
+గణించండి\nప్రాంతం
+సేవ్ చేయబడిన\nస్థలాలు
+మ్యాప్‌లో\nసేవ్ చేయండి
+మ్యాప్‌లో సేవ్ చేయండి
+ప్రాంతం, దూరం, స్థానం లేదా ట్రిప్ డేటాను ఇమేజ్ లేదా షేర్ చేయదగిన మ్యాప్ ఫార్మాట్‌గా సేవ్ చేయండి
+ఒక స్థానాన్ని సేవ్ చేయండి
+శీర్షిక
+స్థానానికి శీర్షిక ఇవ్వండి
+వివరణ
+స్థానానికి వివరణ ఇవ్వండి
+దయచేసి సేవ్ చేసిన స్థానానికి శీర్షిక ఇవ్వండి
+చిరునామాలు
+మ్యాప్స్
+చిరునామా ఏదీ సేవ్ చేయబడలేదు\nదిగువ బటన్‌పై క్లిక్ చేయడం ద్వారా సేవ్ చేయడం ప్రారంభించండి
+కొత్తది జత పరచండి
+మ్యాప్స్ ఏవీ సేవ్ చేయబడలేదు\nదిగువ బటన్‌పై క్లిక్ చేయడం ద్వారా సేవ్ చేయడం ప్రారంభించండి
+గుర్తించండి
+తొలగించు
+ยกเลิก
+ทางออก
+คุณแน่ใจหรือไม่ คุณต้องการออกจากระบบหรือไม่
+ใช่
+เลขที่
+ความเป็นส่วนตัว
+คลิกมากกว่า 2 แห่งเพื่อรับพื้นที่
+คลิกที่สถานที่มากกว่า 2 แห่งเพื่อรับระยะทาง
+<u>นโยบายความเป็นส่วนตัว</u>
+คุณช่วยสละเวลาสักครู่เพื่อให้คะแนนได้ไหม มันช่วยเราได้ ขอบคุณสำหรับการสนับสนุนของคุณ
+กิจกรรมแผนที่ที่บันทึกไว้
+ใหม่ สถานที่ที่บันทึกไว้ กิจกรรม
+ที่อยู่
+แผนที่
+วางแผนการเดินทาง
+บันทึกพื้นที่
+บันทึกระยะทาง
+สถานที่ที่บันทึกไว้
+แอพเพิ่มเติม
+ประเมิน
+แบ่งปัน
+กิจกรรมสาธิต
+ล้างจุดที่วางไว้ทั้งหมด
+เลิกทำ
+สด\nตำแหน่ง
+ที่อยู่\nสด
+คำนวณ\nระยะทาง
+คำนวณ\nพื้นที่
+สถานที่ที่บันทึกไว้\n
+บันทึก\nonแผนที่
+บันทึกบนแผนที่
+พื้นที่ ระยะทาง สถานที่ หรือการเดินทาง บันทึกข้อมูลเป็นรูปภาพหรือรูปแบบแผนที่ที่ใช้ร่วมกันได้
+บันทึกตำแหน่ง
+ชื่อ
+ตั้งชื่อให้กับสถานที่
+คำอธิบาย
+ให้คำอธิบายสถานที่
+โปรดตั้งชื่อให้กับตำแหน่งที่บันทึกไว้
+ที่อยู่
+แผนที่
+ไม่มีที่อยู่บันทึกไว้\nเริ่มบันทึกโดยคลิกที่ปุ่มด้านล่าง
+เพิ่มใหม่
+ไม่มีแผนที่ที่บันทึกไว้\nเริ่มบันทึกโดยคลิกที่ปุ่มด้านล่าง
+ค้นหา
+ลบ
+İptal etmek
+çıkış
+Çıkmak istediğine emin misin?
+Evet
+HAYIR
+Mahremiyet
+Alan almak için 2'den fazla yere tıklayın
+Mesafe almak için 2'den fazla yere tıklayın
+<u>Gizlilik Politikası</u>
+Puan vermek için bir dakikanızı ayırır mısınız? Bize yardımcı oluyor, Desteğiniz için teşekkürler.
+KayıtlıHaritalar Etkinliği
+Yeni Kayıtlı YerlerEtkinliği
+Adres
+Haritalar
+Gezi planlamak
+Alanı Kaydet
+Mesafeyi Kaydet
+Kayıtlı Yerler
+Daha fazla uygulama
+Oran
+Paylaşmak
+Demo Etkinlik
+Yerleştirilen tüm noktaları temizle
+geri alma
+Canlı\nKonum
+Canlı\nAdres
+Hesapla\nMesafe
+Hesapla\nAlan
+Kayıtlı\nYerler
+Kaydet\Harita Dışı
+Haritada Kaydet
+Alan, Mesafe, Konum veya Yolculuk, verileri Görüntü veya Paylaşılabilir Harita biçiminde kaydeder
+Konum Kaydet
+Başlık
+Konuma Bir Başlık Verin
+Tanım
+Konuma Açıklama Verin
+Lütfen Kayıtlı Konuma Bir Başlık Verin
+adresler
+Haritalar
+Adres Kaydedilmedi\nAşağıdaki düğmeyi tıklayarak kaydetmeye başlayın
+Yeni ekle
+Kaydedilmiş Harita Yok\nAşağıdaki düğmeyi tıklayarak kaydetmeye başlayın
+bulun
+Silmek
+Скасувати
+Вихід
+Ви впевнені що хочете вийти?
+Так
+Немає
+Конфіденційність
+Натисніть у більш ніж 2 місцях, щоб отримати область
+Клацніть у більш ніж 2 місцях, щоб отримати відстань
+<u>Політика конфіденційності</u>
+Чи не проти взяти хвилинку, щоб дати оцінку? Це нам допомагає. Дякуємо за підтримку.
+SavedMapsActivity
+NewSavedPlacesActivity
+Адреса
+Карти
+Плануйте подорож
+Область збереження
+Економія відстані
+Збережені місця
+Більше додатків
+Оцінка
+Поділіться
+DemoActivity
+Очистити всі розміщені точки
+скасувати
+Жити\nМісцезнаходження
+Жива\nадреса
+Обчисліть\nвідстань
+Обчисліть\nплощу
+Збережені\nмісця
+Зберегти\nкарту
+Зберегти на карті
+Площа, відстань, місцезнаходження або подорож зберігають дані у форматі зображення або карти, доступною для спільного використання
+Зберегти місцезнаходження
+Назва
+Дайте назву місцезнаходження
+опис
+Дайте опис місцезнаходження
+Укажіть назву для збереженого місця
+Адреси
+Карти
+Адреса не збережена\nПочніть збереження, натиснувши кнопку нижче
+Додати новий
+Немає збережених карт\nПочніть збереження, натиснувши кнопку нижче
+Знайдіть
+Видалити
+منسوخ کریں۔
+باہر نکلیں
+کیا آپ کو یقین ہے کہ آپ ہیاں سے نکلنا چاہتے ہیں؟
+جی ہاں
+نہیں
+رازداری
+رقبہ حاصل کرنے کے لیے 2 سے زیادہ مقامات پر کلک کریں۔
+فاصلہ حاصل کرنے کے لیے 2 سے زیادہ مقامات پر کلک کریں۔
+<u>رازداری کی پالیسی</u>
+کیا آپ ریٹنگ دینے کے لیے تھوڑا وقت نکالیں گے؟ یہ ہماری مدد کرتا ہے، آپ کے تعاون کا شکریہ۔
+SavedMapsActivity
+NewSavedPlacesActivity
+پتہ
+نقشے
+ایک سفر کا منصوبہ بنائیں
+ایریا کو محفوظ کریں۔
+فاصلہ بچائیں۔
+محفوظ کردہ مقامات
+زیادہ اطلاقات
+شرح
+بانٹیں
+ڈیمو ایکٹیویٹی
+تمام رکھے ہوئے پوائنٹس کو صاف کریں۔
+کالعدم
+لائیو\nمقام
+لائیو\nپتہ
+فاصلہ کا حساب لگائیں۔
+رقبہ\nکا حساب لگائیں۔
+محفوظ کردہ\nمقامات
+محفوظ کریں\nنقشہ پر
+نقشے پر محفوظ کریں۔
+رقبہ، فاصلہ، مقام یا سفر ڈیٹا کو بطور تصویر یا قابل اشتراک نقشہ کی شکل میں محفوظ کرتا ہے۔
+ایک مقام محفوظ کریں۔
+عنوان
+مقام کو ایک عنوان دیں۔
+تفصیل
+مقام کی تفصیل دیں۔
+براہ کرم محفوظ کردہ مقام کو ایک عنوان دیں۔
+پتے
+نقشے
+کوئی پتہ محفوظ نہیں ہوا\nذیل کے بٹن پر کلک کرکے محفوظ کرنا شروع کریں۔
+نیا شامل کریں
+کوئی نقشہ محفوظ نہیں ہوا\nذیل کے بٹن پر کلک کرکے محفوظ کرنا شروع کریں۔
+تلاش کریں۔
+حذف کریں۔
+Hủy bỏ
+Lối ra
+Bạn có chắc bạn muốn thoát?
+Đúng
+KHÔNG
+Sự riêng tư
+Nhấp vào hơn 2 địa điểm để lấy khu vực
+Nhấp vào hơn 2 địa điểm để có Khoảng cách
+<u>Chính sách bảo mật</u>
+Bạn có phiền dành một chút thời gian để đưa ra đánh giá? Nó giúp chúng tôi, Cảm ơn sự hỗ trợ của bạn.
+Bản đồ đã lưuHoạt động
+MớiĐịa điểm Đã lưuHoạt động
+Địa chỉ
+bản đồ
+Kế hoạch cho một chuyến đi
+Lưu diện tích
+Lưu khoảng cách
+địa điểm đã lưu
+Thêm nhiều ứng dụng
+Tỷ lệ
+Chia sẻ
+DemoHoạt động
+Xóa tất cả các điểm đã đặt
+Hoàn tác
+Trực tiếp\nVị trí
+Trực tiếp\nĐịa chỉ
+Tính\nKhoảng cách
+Tính\nDiện tích
+Đã lưu\nĐịa điểm
+Lưu\không phải Bản đồ
+Lưu trên bản đồ
+Khu vực, Khoảng cách, Vị trí hoặc Chuyến đi lưu dữ liệu dưới dạng Hình ảnh hoặc định dạng Bản đồ có thể chia sẻ
+Lưu một vị trí
+Tiêu đề
+Đặt tiêu đề cho địa điểm
+Sự miêu tả
+Đưa ra một mô tả cho vị trí
+Vui lòng đặt tiêu đề cho vị trí đã lưu
+địa chỉ
+bản đồ
+Không có địa chỉ nào được lưu\nBắt đầu lưu bằng cách nhấp vào nút bên dưới
+Thêm mới
+Không có bản đồ nào được lưu\nBắt đầu lưu bằng cách nhấp vào nút bên dưới
+Định vị
+Xóa bỏ
